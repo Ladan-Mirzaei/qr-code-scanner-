@@ -4,7 +4,7 @@
 
 npm install @cmdnio/react-qr-reader
 
-# HTTPS aktivieren (für Kamera auf mobilen Geräten):
+HTTPS aktivieren (für Kamera auf mobilen Geräten):
 
 npm install --save-dev vite-plugin-mkcert
 Bearbeite die Datei vite.config.js:
